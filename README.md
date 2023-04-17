@@ -20,9 +20,9 @@ My Github page is available [here](https://github.com/Kimhanjae7)
 1. Ordered list
 2. Ordered list
 3. Ordered list
-* 4.Ordered list
-  * 5.Ordered list
-    * 6.Ordered list     
+* 4.Unordered list
+  * 5.Unordered list
+    * 6.Unordered list     
    
 | 1교시 | 2교시 | 3교시 |
 |:--------:|:--------:|:--------|
