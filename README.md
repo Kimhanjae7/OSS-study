@@ -15,7 +15,7 @@ My Github page is available [here](https://github.com/Kimhanjae7)
       
 > Hello
 >> My name's **HanJae Kim**
->>> I major in computer engineering     
+>>> *I major in computer engineering*     
    
 1. Ordered list
 2. Ordered list
