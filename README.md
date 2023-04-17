@@ -10,7 +10,6 @@
 동아대 홈페이지는 [여기](http://www.donga.ac.kr)를 클릭하세요    
 My Github page is available [here](https://github.com/Kimhanjae7)        
 
-![동아대학교](https://yt3.ggpht.com/a/AATXAJwc54_MYvCB7gpEypZFfwjpdBFbnVNmDF1_2w=s900-c-k-c0xffffffff-no-rj-mo)  
 <img src = "https://yt3.ggpht.com/a/AATXAJwc54_MYvCB7gpEypZFfwjpdBFbnVNmDF1_2w=s900-c-k-c0xffffffff-no-rj-mo" width = "50%" height = "50%">   
    
       
