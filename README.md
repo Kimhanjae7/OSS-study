@@ -15,5 +15,5 @@ My Github page is available [here](https://github.com/Kimhanjae7)
       
 > Hello
 >> My name's **HanJae Kim**
->>> Interesting OSS      
+>>> I major in computer engineering     
 
