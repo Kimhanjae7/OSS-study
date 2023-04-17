@@ -16,4 +16,9 @@ My Github page is available [here](https://github.com/Kimhanjae7)
 > Hello
 >> My name's **HanJae Kim**
 >>> I major in computer engineering     
+   
+   
+| 1교시 | 2교시 | 3교시 |
+|:--------:|:--------:|:--------|
+|~~C++~~|~~Python~~|**OSS**|
 
