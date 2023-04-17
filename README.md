@@ -21,8 +21,8 @@ My Github page is available [here](https://github.com/Kimhanjae7)
 2. 목록
 3. 목록
 * 4.목록
-** 5.목록
-*** 6.목록      
+* 5.목록
+* 6.목록      
    
 | 1교시 | 2교시 | 3교시 |
 |:--------:|:--------:|:--------|
