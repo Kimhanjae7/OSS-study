@@ -17,12 +17,12 @@ My Github page is available [here](https://github.com/Kimhanjae7)
 >> My name's **HanJae Kim**
 >>> I major in computer engineering     
    
-1. 목록
-2. 목록
-3. 목록
-* 4.목록
-  * 5.목록
-    * 6.목록      
+1. Ordered list
+2. Ordered list
+3. Ordered list
+* 4.Ordered list
+  * 5.Ordered list
+    * 6.Ordered list     
    
 | 1교시 | 2교시 | 3교시 |
 |:--------:|:--------:|:--------|
